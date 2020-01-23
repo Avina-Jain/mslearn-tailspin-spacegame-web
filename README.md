@@ -1,5 +1,5 @@
 
-https://dev.azure.com/avjain/05a186c9-128a-4e69-82fe-3e286fc2364f/3a972fcf-3300-4e91-bfb5-eeae85da9039/_apis/work/boardbadge/eaf71a8f-7d04-4aaa-83b8-d3f39b35b00c?columnOptions=1
+[![Board Status](https://dev.azure.com/avjain/05a186c9-128a-4e69-82fe-3e286fc2364f/3a972fcf-3300-4e91-bfb5-eeae85da9039/_apis/work/boardbadge/eaf71a8f-7d04-4aaa-83b8-d3f39b35b00c?columnOptions=1)](https://dev.azure.com/avjain/05a186c9-128a-4e69-82fe-3e286fc2364f/_boards/board/t/3a972fcf-3300-4e91-bfb5-eeae85da9039/Microsoft.RequirementCategory/)
 
 # Contributing
 
